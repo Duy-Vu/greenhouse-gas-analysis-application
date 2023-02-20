@@ -1,0 +1,11 @@
+# User options
+options/**.json
+
+# Python
+__pycache__
+
+# pytest
+.pytest_cache
+
+# PyQt6
+.qt_for_python/

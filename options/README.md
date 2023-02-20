@@ -1,0 +1,1 @@
+## This folder contains the saved UI options as JSON files. No development-related files are stored here.
